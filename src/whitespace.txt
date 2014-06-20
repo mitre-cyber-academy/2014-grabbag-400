@@ -1,0 +1,27 @@
+MS S S S T	S S T	T	S T	L
+T	L
+CS S S S S S S T	S S S S T	T	L
+T	L
+AS S S S S S S T	S S S S S T	L
+T	L
+-S S S S S S S T	S T	T	S T	L
+T	L
+7S S S S S S T	T	S T	T	T	L
+T	L
+3S S S S S S T	T	S S T	T	L
+T	L
+FS S S S S S T	S S S T	T	S L
+T	L
+9S S S S S T	T	T	S S T	L
+T	L
+CS S S S S S T	S S S S T	T	L
+T	L
+BS S S S S S T	S S S S T	S L
+T	L
+1S S S S S S S T	T	S S S T	L
+T	L
+2S S S S S S S T	T	S S T	S L
+T	L
+S S L
+L
+L
