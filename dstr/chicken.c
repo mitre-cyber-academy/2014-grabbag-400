@@ -13,7 +13,6 @@ void chikin(void);
 void moreChikin(void);
        	 		 	
 	
-
 int main(int argc, char** argv)
 {
 	srand(time(NULL));
@@ -30,9 +29,7 @@ int main(int argc, char** argv)
 		}
       	   		 
 	
-	chikin();
-     			  	
-	
+		chikin();
 	}
       	    		
 	
