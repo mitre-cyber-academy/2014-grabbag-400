@@ -10,4 +10,6 @@ Working interpreter: http://ws2js.luilak.net/interpreter.html
 
 Note: The Whitespace code is supplied in this file. In it you will see "S"(space), "T" (tab) and "L" (linefeed) along with the key characters on the beginning of each line. The language sees all other characters as comments, so you can keep those in there. Copy and paste into the interpereter and run.
 
+To compile: gcc -Wall -m32 interface.c -o interface
+
 Key: MCA-73F9CB12
